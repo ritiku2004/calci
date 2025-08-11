@@ -1,43 +1,67 @@
-Modern Calculator
-A sleek, modern, and fully responsive calculator built with HTML, Tailwind CSS, and vanilla JavaScript. This project features a clean, dark-themed interface and supports both mouse/touch and keyboard inputs for a seamless user experience on any device.
+# Modern Calculator (**calci**)
 
-✨ Features
-All Basic Operations: Perform addition, subtraction, multiplication, division, and percentage calculations.
+A sleek, modern, and fully responsive calculator built with HTML, Tailwind CSS, and vanilla JavaScript.
 
-Keyboard Support: Use your keyboard for a faster calculation workflow. All number and operator keys are mapped, including Enter for equals, Backspace for delete, and Escape for clearing.
+##  Live Demo / Deployment
 
-Fully Responsive: The layout adapts beautifully to any screen size, from mobile phones to desktop monitors.
+> **Live Demo:** [Insert your deployment URL here]  
+*(e.g., https://your-username.github.io/calci or your own custom domain)*
 
-Interactive UI: Buttons have satisfying hover and active states, and the corresponding key lights up on a keypress, providing excellent visual feedback.
+##  Features
 
-Dynamic Display: The font size of the display adjusts automatically to fit longer numbers, preventing overflow issues.
+- **All Basic Operations**  
+  Perform addition, subtraction, multiplication, division, and percentage calculations. :contentReference[oaicite:0]{index=0}
 
-Core Functions: Includes essential AC (All Clear) and DEL (Delete last digit) buttons.
+- **Keyboard Support**  
+  Input numbers and operators using your keyboard—Enter for equals, Backspace for delete, Escape for clear. :contentReference[oaicite:1]{index=1}
 
-Zero Dependencies: Built with pure HTML, JavaScript, and Tailwind CSS loaded via a CDN, so there's no need for a build step or package installation.
+- **Fully Responsive Design**  
+  Adapts seamlessly across devices—from mobile phones to desktop monitors. :contentReference[oaicite:2]{index=2}
 
-🛠️ Technologies Used
-HTML5: For the basic structure and content.
+- **Interactive UI**  
+  Buttons respond with hover and active states, and corresponding keys light up on keypress for great visual feedback. :contentReference[oaicite:3]{index=3}
 
-Tailwind CSS: For a modern, utility-first approach to styling.
+- **Dynamic Display Scaling**  
+  The calculator’s font size adjusts dynamically to accommodate longer numbers without overflow. :contentReference[oaicite:4]{index=4}
 
-JavaScript (ES6+): For all the calculator logic and interactivity.
+- **Essential Controls**  
+  Includes AC (All Clear) and DEL (Delete last digit) buttons for easy corrections. :contentReference[oaicite:5]{index=5}
 
-Google Fonts: For the clean 'Inter' typeface.
+- **Zero Dependencies**  
+  Built purely with HTML5, JavaScript (ES6+), and Tailwind CSS (via CDN)—no build tools or installations required. :contentReference[oaicite:6]{index=6}
 
-🚀 How to Run
-Since this is a self-contained HTML file, getting it running is simple:
+##  Built With
 
-Copy the code from the Modern Calculator artifact.
+- **HTML5** — For structure and semantic markup  
+- **Tailwind CSS** — Utility-first styling loaded via CDN  
+- **JavaScript (ES6+)** — Core logic and interactivity  
+- **Google Fonts** — The clean **Inter** typeface :contentReference[oaicite:7]{index=7}
 
-Save the code in a file named index.html.
+##  Getting Started
 
-Open the index.html file in any modern web browser (like Chrome, Firefox, or Safari).
+### Running Locally
 
-That's it! No complex setup or installation is required.
+1. Clone or download the repository.  
+2. Open `index.html` in any modern web browser (Chrome, Firefox, Safari, etc.).  
+3. That's it—there’s no setup or build step required. :contentReference[oaicite:8]{index=8}
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
+### Contributing
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Contributions, feature requests, and issues are welcome! To contribute:
+
+1. Fork the repository.  
+2. Create a new branch (e.g., `feature/my-awesome-feature`).  
+3. Commit your changes.  
+4. Push to your fork.  
+5. Open a Pull Request.
+
+##  License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details. :contentReference[oaicite:9]{index=9}
+
+---
+
+> **Note:** Replace the "Live Demo" placeholder with your actual deployment URL (e.g., GitHub Pages or Netlify). Let me know if you’d like help setting that up—I’d be happy to assist!
+
+Let me know if you'd like any refinements or additions!
+::contentReference[oaicite:10]{index=10}
