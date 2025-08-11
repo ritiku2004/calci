@@ -4,7 +4,7 @@ A sleek, modern, and fully responsive calculator built with **HTML**, **Tailwind
 
 ## 🚀 Live Demo
 
-[![🌐 View Deployment](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://your-deployment-link-here.com)
+[![🌐 View Deployment](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)]([https://your-deployment-link-here.com](https://ritiku2004.github.io/calci/))
 
 ## ✨ Features
 
